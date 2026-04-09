@@ -1,0 +1,21 @@
+batch_id,product_name,inspector,production_line,shift,date,measurement_value,previous_defect,previous_inspections,previous_pass_rate,remarks
+BX-2026-04-0892,ABS Sensor Module v3.2,Rajesh Kumar,Production Line A3,Day Shift,2026-04-09,42.50,None,12,94.2,Last inspection passed. Minor surface variation noted on 2 units.
+BX-2026-04-1105,ESP Control Unit v2.1,Ananya Sharma,Production Line B1,Night Shift,2026-04-09,38.70,Misalignment,8,87.5,Previous batch had 1 unit with misalignment. Root cause addressed.
+BX-2026-04-0667,Fuel Injector Nozzle v4.0,Vikram Patel,Production Line C2,Day Shift,2026-04-08,15.20,None,21,99.1,Consistently high quality. No defects in last 5 inspections.
+BX-2026-04-0334,Oxygen Sensor Assembly v1.8,Priya Deshmukh,Production Line A1,Evening Shift,2026-04-08,67.30,Scratch,15,91.0,Scratch defects observed sporadically. Tooling review scheduled.
+BX-2026-04-0221,Wiper Motor Controller v5.3,Arjun Mehta,Production Line D4,Day Shift,2026-04-07,22.00,None,6,100.0,New product line — all units passed so far. Monitoring closely.
+BX-2026-04-0455,Brake Caliper Assembly v2.4,Sneha Iyer,Production Line B2,Night Shift,2026-04-07,55.80,Crack,18,88.3,Hairline crack detected on 1 unit in previous run. Tooling inspected.
+BX-2026-04-0789,Turbocharger Actuator v1.7,Karan Singh,Production Line C2,Day Shift,2026-04-06,31.40,None,10,96.5,Stable output across last 3 batches. No issues reported.
+BX-2026-04-0912,Steering Angle Sensor v3.0,Meera Nair,Production Line A3,Evening Shift,2026-04-06,48.90,Contamination,14,92.8,Contamination traces found on 2 units. Cleanroom filters replaced.
+BX-2026-04-0156,Glow Plug Controller v2.2,Rohan Gupta,Production Line D4,Day Shift,2026-04-05,12.60,None,25,98.7,Excellent run quality. SPC charts show stable Cpk values.
+BX-2026-04-0278,Rain Sensor Module v4.1,Kavita Rao,Production Line B1,Night Shift,2026-04-05,73.10,Dimensional Deviation,9,85.0,Dimensional drift on 3 units. CNC tool compensation adjusted.
+BX-2026-04-0501,Throttle Position Sensor v1.5,Amit Joshi,Production Line A1,Day Shift,2026-04-04,29.80,Scratch,11,93.5,Minor scratches on connector housing. Handling procedure updated.
+BX-2026-04-0634,Camshaft Position Sensor v3.3,Deepa Menon,Production Line C2,Evening Shift,2026-04-04,41.20,None,16,97.2,Consistent pass rate. No corrective actions pending.
+BX-2026-04-0777,MAP Sensor Unit v2.8,Suresh Pillai,Production Line B2,Day Shift,2026-04-03,58.50,Misalignment,7,89.5,Assembly fixture showed slight drift. Recalibrated and verified.
+BX-2026-04-0845,Fuel Rail Pressure Sensor v2.0,Nisha Verma,Production Line A3,Night Shift,2026-04-03,35.60,None,20,99.5,Top-performing product line. Zero rework in last 10 batches.
+BX-2026-04-0999,EGR Valve Actuator v1.4,Prakash Reddy,Production Line D4,Day Shift,2026-04-02,62.40,Crack,13,86.7,Structural crack on 1 unit traced to raw material defect. Supplier notified.
+BX-2026-04-1023,Lambda Probe Assembly v3.1,Shalini Das,Production Line B1,Evening Shift,2026-04-02,19.70,None,22,97.8,Clean run. All units within 3-sigma control limits.
+BX-2026-04-1150,Knock Sensor Module v2.5,Varun Kapoor,Production Line A1,Day Shift,2026-04-01,44.30,Contamination,5,90.0,Slight particulate contamination. Source traced to ventilation duct.
+BX-2026-04-1288,Idle Speed Controller v4.2,Pooja Sharma,Production Line C2,Night Shift,2026-04-01,27.90,None,17,95.3,Normal operation. Preventive maintenance completed on line equipment.
+BX-2026-04-1345,Intake Air Temp Sensor v1.9,Rahul Bhatt,Production Line B2,Day Shift,2026-03-31,51.70,Scratch,19,92.1,Light surface marks from conveyor belt contact. Belt tension adjusted.
+BX-2026-04-1400,Boost Pressure Sensor v3.5,Anita Kulkarni,Production Line D4,Evening Shift,2026-03-31,36.80,None,24,98.2,Excellent batch. Operator noted smooth production flow throughout shift.
